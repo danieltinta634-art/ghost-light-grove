@@ -1,0 +1,24 @@
+# build output
+bin/
+obj/
+*.user
+.vs/
+
+# os junk
+**/__MACOSX/
+**/.DS_Store
+
+# downloaded asset archives (extracted copies are tracked)
+*.zip
+
+# working/scratch render images (regenerable)
+tiled/*-preview.png
+tiled/*-grid*.png
+tiled/*-zoom*.png
+tiled/*-compare.png
+tiled/*-candidates.png
+tiled/*-tiletest.png
+tiled/cat*.png
+tiled/maps/*-preview.png
+tiled/maps/*-check.png
+tiled/grass-*.png
