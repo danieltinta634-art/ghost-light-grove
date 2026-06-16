@@ -16,8 +16,9 @@ art_done: false
 ---
 
 Cliff began as one of the wild risen — a mindless, aggressive zombie wandering
-the Deep Woods, like all the others there: a casualty of Victor's overuse of
-ghost light technology. Myra captured him and brought him to Victor, and Cliff
+the Deep Woods, like all the others there: animated by the **backlog of unreaped
+souls** (the accumulated ghost light that stirs the Grove's dead — NOT Victor's
+doing). Myra captured him and brought him to Victor, and Cliff
 became one of Victor's first successful experiments in **ghost light therapy** —
 rehabilitated out of mindlessness and back into sentience. He kept none of his
 living memories. Only muscle memory came back with him.
@@ -40,8 +41,7 @@ scratched out]~~ Cliff."**
 > relationships with Victor (rehabilitated him) & Myra (captured him) · his arc
 > once the reaper mantle unlocks.
 >
-> **Reconcile (lore):** design doc currently says the wild risen rose because
-> "spirits leaked" — this backstory says Victor's *overuse of ghost light tech*
-> caused them. Easiest fix: overuse → leak → risen (one causal chain). Also note
-> this implicates Victor in the central threat, so it may belong in
-> `story-spoiler-doc.md` rather than public canon.
+> **Lore (RESOLVED 2026-06-16):** the wild risen come from the **unreaped-soul
+> backlog**, NOT from Victor. Victor is a protector who suppresses them and
+> rehabilitates the ones Myra brings him. (Matches the two-system canon in
+> `story-spoiler-doc.md`.)
