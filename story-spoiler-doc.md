@@ -13,28 +13,100 @@
 - The **moon is the world's only great light** and its heartbeat: phases change nightly, a Full Moon closes each week.
 - **Ghost light** is spirit energy. In a sunless world, it is what light *is* here. The town is named for it.
 
-## The Core Truth (canon)
+## The Core Truth (canon) — REVISED
 
-- **The player's family CREATED the eternal darkness — deliberately, using ghost light, for a good reason.**
-- **The reason: THE PLAYER'S GRANDFATHER created the darkness to prevent the reaping of THE PLAYER'S GRANDMOTHER.** A reaper who refused to take his own wife's soul, and wove a night where death couldn't collect her.
-- The night is a place where death doesn't collect — a loophole woven from ghost light. That is why ghosts linger here, why the dead can rise, why the strange and forgotten persist: inside the veil, nobody gets taken.
-- **The player's grandmother is STILL HERE — hidden in the Grove, unrecognized.** Meeting her is the endgame reveal. (What she is now, and who she appears to be in the present-day cast: OPEN.)
-- **The sanctuary was an accident of love.** Only after the darkness fell did the Grove begin drawing other creatures of the night — vampires, werewolves, swamp monsters. The town grew inside one family's protective working.
-- **Something later went wrong with the harnessing of the ghost light** — it began reanimating creatures (the wild, mindless risen). The malfunction is the source of the combat foes and possibly the wandering spirits. (What happened and when: OPEN.)
-- **Victor harvests ghost light from the caves — and it POWERS THE TOWN.** Every lantern in Ghost Light Grove burns on his harvest; the town depends on the very operation that unsettles it.
-- **Victor's harvesting CAUSED the malfunction.** He siphons ambient light, never souls — but his draw destabilized the untended working: the wild reanimation began with his pumps, and his machinery is why the cave spirits are agitated/angry. **He suspects it.** It is why he uplifted Benny, Cliff and the twins — responsibility, never spoken of as such. The causal chain: town needs light → harvest → malfunction → mindless risen → the uplifts → the dilemma.
-- **Victor's controversial project:** harness the ghost light to bring back the day — undoing the original working. But the cost is the town: the night is what shelters everyone, and the sentient reanimated may cease to exist.
-- **Wild, ambient ghost light** — a byproduct of the darkness — **raises the dead mindlessly.** These mindless risen (stirred bones, animated brambles, haunted objects) are the game's combat foes. They are symptoms of the manor's wound, not people.
-- **Victor harnesses ghost light** in an attempt to **fix the darkness** (restore the day). His lab runs on captured spirits.
-- **Victor's experiments on mindless risen can grant sentience.** Benny and Cliff were mindless risen; Victor uplifted them into people. **This is public knowledge** — the town knows, Benny and Cliff know.
-- **The moral dilemma at the story's heart:** if the day is restored, the sentient reanimated may cease to exist. Fixing the world and unmaking its gentlest citizens may be the same act. (Who else is at risk: OPEN — #2.)
+> **Major revision (this draft):** the night and the ghost light are now **two
+> separate consequences** of one act of grief, not one system. The old canon
+> ("Victor's harvesting *caused* the risen"; "restore the day" as the dilemma)
+> is **superseded** by everything below.
+
+**Two systems, one cause.** Grandfather's grief produced two *independent*
+problems. Reaping every loose soul would not end the night; ending the night
+would not clear the souls. Keep them decoupled.
+
+**① THE ETERNAL NIGHT = the bound sun goddess (cosmic).**
+- Grandmother was a **sun goddess**. The Grove's daylight existed because she did.
+- Grandfather was the Grove's **assigned reaper**; he and grandmother came here
+  together and he built the manor. They married; she walked among mortals.
+- When she died, grandfather **refused to reap her**. Rather than let her pass,
+  he used a reaper's power to **bind her soul into her shrine deep in the spirit
+  caves** — holding her at the threshold, neither gone (reborn to the sky) nor
+  present (shining). **Held.**
+- Because the sun-goddess is held in limbo, **the sun never rises.** The eternal
+  night is her arrested passing, clamped in place by his deliberate working.
+- The **shrine is both her prison and his monument.** He guarded the choice for years, then **left the Grove** and died still bound to it (estranged, in the wider world — see Manor canon). A working that strong outlasts its maker.
+- The moon ruling the sky now is **her absence made visible** — the cold light
+  that fills the vacuum the sun left.
+
+**② THE GHOST LIGHT = unreaped soul build-up (accumulative).**
+- Grandfather didn't just refuse her — he **stopped reaping entirely.** With no
+  reaper doing the job, the Grove's dead **never moved on.**
+- That backlog of **unreaped souls accumulates into ghost light** — spirit energy
+  that, in a sunless world, is what light *is* here (the town is named for it).
+- The build-up **animates the dead** (mindless risen — skeletons, zombies,
+  haunted objects) and **stirs angry/wandering spirits.** This is the *town-scale
+  hazard*, and the part the reaper's actual job addresses: reap the backlog →
+  ghost light recedes.
+- **This has nothing to do with the goddess.** You could reap every loose soul in
+  the Grove and it would still be night.
+
+**Victor (revised — protector, not culprit; blind to the goddess).**
+- Victor arrived **after grandfather left** — found an untended source, a town in
+  the dark, and filled the vacuum.
+- He built his **lab and a spirit well in the caves** and **harvests ghost light**
+  (the unreaped-soul energy) to **power the town** and **suppress the risen** —
+  his light banishes them from the main town and confines them to the **Deep
+  Woods** (the combat zone).
+- He is solving the **backlog** problem and **has no idea about the goddess.** His
+  well sits in the caves harvesting the soul-runoff that pools there — working
+  next to her shrine, mistaking the symptom for the system.
+- **New uplift motive:** not guilt (old canon) but **compassion + curiosity.**
+  Myra brings him the ones she traps; he discovered a mind can be coaxed back
+  (Benny, Cliff, the twins). *(Public knowledge; the town knows.)*
+
+**The veil & the sanctuary.**
+- A region drowned in perpetual night is **invisible to the outside world** —
+  which is why no replacement reaper ever came, and why the lost and strange can
+  slip in undetected.
+- The town grew **by accident, inside one man's grief.** The Grove now draws
+  those who need it; every resident once had nowhere else. It has become a **true
+  self-sustaining haven** — no longer dependent on the binding that started it.
+
+**THE ENDGAME — the third door (canon).**
+- The player (the new reaper) reaches the shrine, learns what grandfather did, and
+  can **undo the binding.**
+- Undoing it does **NOT** bring back the sun. The night long ago stopped
+  depending on the spell — the haven sustains itself now. Undoing the binding
+  simply **lets her go.**
+- **The sun goddess passes on — by choice.** Freed at last, she chooses **not**
+  to reclaim the sky. She looks at what grew in her absence — the haven of the
+  lost, the gentle risen, the family her husband's grief accidentally gathered —
+  and **blesses the night instead of ending it.** She moves on in peace; the Grove
+  keeps its moon.
+- **Grandfather's grief finally resolves**, three generations late, through the
+  player's hand. The reaper whose family started this ends the limbo — and honors
+  what the limbo created.
+
+**Post-story (canon).**
+- The world **stays in eternal night**, lit as ever. The ghost light **never came
+  from her** — it's the unreaped-soul backlog — so the lanterns, the risen, and
+  the living town continue exactly as before.
+- The **soul backlog is fully separate and remains the ongoing reaper's work** —
+  the player's permanent post-game role. Reaping loose spirits continues as live
+  gameplay; the worst is settled, but the night town runs on, night forever, on a
+  light note.
+
+**The dilemma, reframed.** It is no longer "save the world OR save the town."
+It's: *finish the act grandfather couldn't.* The hard thing isn't a cost to the
+town — it's letting **her** go. Mercy for a god held for decades, paid by the
+player's own hand, with the haven preserved as her parting gift.
 
 ## The Manor & The Player (canon)
 
-- **The player's family are REAPERS.** Working with ghost light — shepherding spirits — is the family trade, and it is how they had the power to create the eternal darkness.
+- **The player's family are REAPERS.** Working with ghost light — shepherding spirits — is the family trade, and it is how the grandfather had the power to bind the sun goddess and make the eternal night.
 - **The inheritance is the OFFICE, not just the house.** The player comes to the Grove to take up the family trade as the new reaper. The pendant/crest is the insignia of the office — it's why Wilcox steps aside.
-- **Leading explanations (endorsed in discussion, to confirm):** the wandering spirits are the *backlog* of years with no reaper doing the job; the ghost-light malfunction (wild reanimation) is what happens when spirit energy pools untended.
-- **The will is the player's GRANDFATHER'S.** He was the manor's last resident — he built the working, left the Grove years ago (why: OPEN), died estranged from the family, and his will sends the player home. Wilcox served *him*.
+- **CONFIRMED (two-system model — see Core Truth):** the wandering spirits and the wild risen are the **backlog** of years with no reaper — unreaped souls pooling into ghost light. That is the *town hazard* and the reaper's ongoing job. It is **separate** from the eternal night (the bound sun goddess); clearing souls never ends the night.
+- **The will is the player's GRANDFATHER'S.** He was the manor's last resident — he bound the goddess and abandoned the reaper's office, left the Grove years ago (why: OPEN), died estranged from the family, and his will sends the player home. Wilcox served *him*.
 - **The middle generation — the player's parent(s) — is DELIBERATELY UNANSWERED.** They exist only to create separation between the player and the grandfather (the estrangement, the not-knowing). Do not build story content that requires answering who they were.
 - **The player does NOT know they're the reaper when they arrive.** The will says "manor"; the pendant is unexplained; the family never spoke of the trade. Discovering the office is the early game's central revelation.
 - **The mantle mechanism: the pendant carries the office, dormant; the manor completes it.** Outside the veil the inheritance is mundane (lawyer, envelope, deed). Crossing the veil wakes the pendant — the player begins to see ghost light, spirits take notice, Wilcox bows. The FULL mantle (the scythe, the ledger of the dead) waits in a locked room of the manor and must be **taken up by choice** — the act-one climax. Reaper gameplay unlocks at acceptance.
@@ -45,10 +117,10 @@
 
 - **Three elevation tiers (high → low):** ① the **manor cliff** (highest), center-north, circular, back against the skyline, moon arcing over it (the night's clock); ② a **ridge line** (middle height — higher than the town, lower than the manor cliff) running **horizontally across the whole map, left edge to right edge**; ③ the **town and lowlands** (lowest), south of the ridge.
 - **The waterfall falls from the ridge down to the lowlands; the CAVE ENTRANCE is at the BASE of the waterfall — in the lowlands** (low tier), behind/beside the falling water.
-- **Victor's lab sits on the MID-TIER (the ridge), top-right (northeast).** **Mechanical piping runs from his lab along the cliff face and DOWN into the low-tier caves** — visibly tapping the source. (The map itself shows his harvest reaching into the caves: the infrastructure that destabilized the working.)
+- **Victor's lab sits on the MID-TIER (the ridge), top-right (northeast).** **Mechanical piping runs from his lab along the cliff face and DOWN into the low-tier caves** — visibly tapping the source. (The map shows his harvest reaching into the caves — tapping the **pooled ghost light** = the unreaped-soul backlog. He is NOT harvesting the goddess and doesn't know her shrine is down there.)
 - Stairs descend **south** from the plateau through **Cliff's graveyard** at their base.
 - **The hidden way:** leave the stair path east, turn north, and hug the cliff wall — where the river runs close against the cliff's right face there is a **waterfall**, and beside it a **cave entrance**.
-- **A cave system runs beneath the manor — and down there are THE SPIRITS and THE SOURCE OF THE GHOST LIGHT.** The wound the manor sits on is literal: the working's wellspring is in the deep, the spirits pool around it, and the whole night above is fed from below. The deeper you go, the closer to the source.
+- **A cave system runs beneath the manor — and TWO different things are down there:** ① the **pooled unreaped souls** = source of the **ghost light** (what Victor's well taps; spirits pool here); ② **deeper still, the sun goddess's SHRINE** = cause of the **eternal night** and the endgame destination. Don't conflate them — ghost light wells up from the backlog, the night radiates from her. The deeper you go, the closer to *her*.
 - Town center: square with a canal through the middle, cobblestone bridge, sewer entrance beneath it (Marshal). The Deep Woods combat zone entrance is at the far northwest edge. **Victor's lab is up to the NORTHEAST.** **The beach starts at center-south and wraps the map edge round to center-east** (an L-shaped coastline along the south and east); the lighthouse sits on it. **A secluded cove (cul-de-sac) sits at the top-right, where the ridge meets the eastern beach** — a tucked-away dead-end inlet. *(Interpreting "colder sack" as cul-de-sac/cove — confirm.)*
 - **The river (revised layout):** rises in **Hazel's swamp** (west/southwest) and flows **horizontally (west→east) through the town**. **After the town it FORKS:** one branch turns **north, hugs the cliff face, and runs off the north edge of the map**; the other branch heads **south to the beach** and the sea. (Marshal's "road in": he came up the river system — the north branch connects the Grove's river to the wider waters beyond the map edge.)
 - **The western Woods (safe ground), top to bottom:** the upper half is forest — Briar's shack near the entrance. **The lower (southern) half is SWAMP** — and **Hazel lives there in a witch's shack/hut**, deep in the swamp. (Hazel is a swamp witch; thematic note: the swamp is also Marshal's kind of country — a swamp monster — and the river/wetland may connect.)
@@ -56,37 +128,50 @@
 
 ## Character Story Canon
 
-- **Myra** found Benny and Cliff — mindless — and brought them to Victor. She also caught Alice and took her in instead of ending her. The town's monster hunter has never treated a monster as a monster.
+- **Myra** is a monster **rehabilitator**, not a hunter — Van Helsing's tools (tracking, trapping, knowing every creature's weakness) used to rescue, not kill. She reads as a hunter to strangers (gear, scars, confidence); the subversion is she's the opposite. She trapped Benny and Cliff — mindless wild risen — in the Deep Woods and brought them to Victor to be uplifted. **The town's monster hunter has never treated a monster as a monster.**
+- **The sanctuary = the game's livestock (spooky edition).** Myra keeps and tends the Grove's creatures — vampire bats, giant spiders, other eerie fauna — as the ranch/livestock loop (tend, collect what they produce, raise/adopt). She is the livestock vendor and the sanctuary's keeper.
+- **Two functions under one roof, kept distinct:** ① the **creatures** = ongoing livestock; ② the **rehabilitation pipeline** = the rare wild risen she traps and delivers to Victor for uplift (Cliff, Benny, the twins) — intake, not livestock; some become townsfolk.
+- **Myra can read the risen.** Most wild risen are mindless, hostile husks — beyond reach. But rarely one is *different*: less feral, a flicker behind the eyes, hesitates instead of lunging. Myra is the **only** one who can tell, and *those* are the ones she brings to Victor; the rest stay wild. This is why uplift is rare (only a handful ever had the spark) and why she's irreplaceable — she sees the person still inside the monster before anyone else can. *(Why some risen have a spark is left unexplained — a thread, not a question that needs answering.)*
+- **No player conflict by design.** Myra works **upstream** of the player: she's already pulled out the salvageable ones, so what the player fights in the Deep Woods are the genuine husks — no mind to save, no moral weight. The reaper and the rehabilitator never work at cross-purposes.
+- **Flavour, not a mechanic.** The trap-and-deliver pipeline is **backstory** — how the uplifted came to be. The player never traps a risen, hauls it to Victor, or runs an uplift as a loop; they meet the *results* (the uplifted are just townsfolk now). *(This declines the shelved "rescue pipeline as endgame gameplay" suggestion below.)*
+- **Alice came to Myra for help** — she sought out the one person in the Grove who helps monsters instead of hunting them, to get her bloodlust under control. Myra took her in. Alice now lives at the sanctuary, **tends the vampire bats** (a reformed vampire caring for the little ones), and runs the town library. Recovery by her own choice.
+- **Myra still fights** — she *can* drop a wild risen, she just won't unless she has to. The most dangerous person in town and the gentlest.
 - **The uplift rule:** Victor's process restores a mind, not the old one. The uplifted keep **no memories of their past lives** — only **muscle memory**. Their bodies remember what their minds don't. (Established for Cliff and Benny; presumably true of all uplifts.)
 - **The twins (Ellie and Kellie)** came from Victor's experiments — uplifted alongside Benny. Whether the three of them were family in life is unknown (possibly unknowable — Benny can't remember). He is their father *now*; that's the part that's certain.
 - **Benny** is a **reanimated skeleton** (not a zombie). No memories, muscle memory only — same as Cliff. Briar drinks at his bar most nights and has never laughed at one of his jokes.
 - **Marshal** came to Ghost Light Grove through a river system — he traveled to the Grove by water, and settled in the waterways beneath the town.
+- **Hazel is the town's apothecary — load-bearing, not background.** A **gentle, elderly, caring witch** — grandmotherly, not gruff (subverting the spooky-swamp-witch cliché: the eerie hut hides a kind old woman brewing medicine for those who need her). She brews **suppressant tonics** that keep her afflicted neighbours stable: they calm **Alice's** blood cravings and ease **Briar's** werewolf affliction. The spooky witch in the swamp is, in fact, everyone's pharmacist — the reason Alice can live among people and Briar can hold a job.
+- **Management, not cure.** The tonics make the afflictions *livable*, never gone — Alice is still a vampire, Briar is still a werewolf. They need the brews **ongoing**, which keeps Hazel needed.
+- **The Full Moon overrides the brew.** Hazel's tonic takes the edge off Briar most of the month, but the **Full Moon** (the moon the world runs on) overpowers it — which is why he still vanishes every week when the moon closes. Even the best witch can't out-brew the moon.
+- **The afflicted kinship.** Alice and Briar share something — both manage a condition, both depend on Hazel. A natural quiet bond between them (the two who need the tonics).
+- **Sabrina = Hazel's apprentice and the apothecary's public face.** The bubbly young witch ("the sunshine one") assists Hazel by running her **deliveries and errands** around town — she's the one who actually **carries the tonics to Alice and Briar**, since Hazel rarely leaves the swamp. The reclusive witch brews; the sunny apprentice delivers. Her arc: **learning to become as good a witch as Hazel** (apprentice → witch in her own right). Warm grandmother-and-granddaughter mentorship.
+- **Tonic ingredients = optional flavour.** Some herbs/components for the tonics are **growable by the player**, and bringing them to Hazel is a friendly contribution + relationship gesture. But it's **not a dependency** — Hazel runs her apothecary fine on her own, and Alice's and Briar's stability never hinges on the player. Pure flavour, not a supply line.
 - **Jack is not a mystery.** He is a running gag — the scarecrow is at the festival, nobody mentions it, moving on. Never explained, by design.
 - **The cursed artifacts are not a mystery.** They are flavor and collection content (crystal balls, monkey's paws) at Alastair's museum. Alastair's own curse remains his personal story.
 
 ## Open Questions (decide before writing dialogue that touches them)
 
-1. **The protected one's IDENTITY.** Canon: a family member whose soul a reaper refused to take, still hidden in the Grove, unrecognized — the endgame reveal. But WHO are they in the present-day cast (or are they someone unmet)? *(This is the story's last great secret — decide before writing any late-game content.)*
-1b. ~~The malfunction~~ **ANSWERED:** Victor's siphoning destabilized the untended working (see Core Truth). **Timeline confirmed: Victor arrived AFTER the grandfather left** — he found an untended source and a town in the dark, and filled the vacuum.
-2. **Who's at risk if day returns?** The reanimated, certainly (Benny, Cliff, twins?, Skitter?). Where do Wilcox (ghost) and Alice (vampire — do classic sunlight rules apply?) fall? This defines who has survival stakes in the dilemma vs. just opinions.
-3. **Does the town want the night fixed?** Divided, resigned, or at peace? (The dilemma above makes this concrete: it's not abstract preference, it's whose neighbors survive.)
-4. **The wandering spirits.** What are they? Where do they come from? Are they increasing? Are they the same kind of thing as Wilcox?
+1. ~~The protected one's IDENTITY.~~ **ANSWERED:** she is the player's **grandmother, a sun goddess**, bound by grandfather into her **shrine in the spirit caves**. Her arrested passing IS the eternal night. Endgame = reaching the shrine and undoing the binding; she passes by choice and blesses the night (see Core Truth). *(Still open: does she also appear in town in a mortal seeming first — someone the player has met?)*
+1b. ~~The malfunction~~ **SUPERSEDED:** there is no malfunction and Victor caused nothing. Ghost light = unreaped-soul backlog, which predates him; he harvests it to power the town and suppress the risen. (Timeline still holds: Victor arrived AFTER grandfather left.)
+2. ~~Who's at risk if day returns?~~ **MOOT:** day does not return. The ending keeps the eternal night and unmakes no one — ghost light isn't the goddess and doesn't leave when she passes, so the reanimated stay safe.
+3. **Does the town fear the new reaper?** Reframed: the night is staying, so the live question is whether residents fear a reaper *could* end their haven — and how they react on learning one won't.
+4. **The wandering spirits** — **mostly answered:** the unreaped backlog (same source as ghost light and risen). Still open: are they *increasing*, and are they the same kind of thing as Wilcox (a ghost who lingers by choice) vs. raw unreaped dead?
 5. **Was the player drawn,** like all arrivals — or is the manor's claim (pendant, will) something different from the Grove's pull?
-6. **Victor and Sabrina's arrival.** Two living humans in a refuge for the strange. What did Victor need when the Grove drew him? Did he come before or after his obsession with the sky?
+6. **Victor and Clementine's arrival.** Two living humans in a refuge for the strange. What did Victor need when the Grove drew him? Did he come before or after his obsession with the sky?
 7. **Were Benny and the twins family in life?** Possibly unknowable by design — Benny can't remember, and the bodies can't say. Decide whether the game ever answers this or deliberately leaves it open.
 
 ## Worldbuilding TODOs (non-story)
 
-- General store owner (vacant since Alastair moved to the museum full-time)
-- Moonstone/endgame vendor (not Alastair)
-- Festival host / town authority figure
-- Lighthouse keeper & young witch — open marriage-candidate slots (pool: Marshal, Briar, Myra, Alice)
+- ~~General store owner~~ **FILLED: Lionel (mummy).**
+- Moonstone/endgame vendor (not Alastair) — still open
+- ~~Festival host / town authority figure~~ **FILLED: Tobias (mayor).**
+- ~~Lighthouse keeper & young witch~~ **FILLED: Dorian & Sabrina.** Candidate pool now: Marshal, Briar, Myra, Alice, Dorian, Selene, Rowan, Sabrina.
 - Likes/dislikes pass for the whole cast (gifting system)
 - Arrival story ("what did they need?") one-liner per resident
 - Tide names/flavors (Harvest, Mist, Frost, Ghost) are Claude's proposal — approve, rename, or redesign
 
 ## Shelved Suggestions (Claude's — not canon unless adopted)
 
-- **Rescue pipeline as endgame gameplay:** trap a wild risen (Myra's traps) → deliver to Victor → meet them later as a new townsperson. The backstory already establishes the pipeline works (Benny, Cliff); this would let the player run it.
+- ~~**Rescue pipeline as endgame gameplay:** trap a wild risen → deliver to Victor → meet them later as a townsperson.~~ **DECLINED** — the pipeline stays backstory flavour, not a player loop (see Myra canon).
 - **Cliff's past as discoverable story:** his muscle memory could reveal who he was — through what his hands do — without a single flashback.
 - **Museum as collection system:** Stardew-style donations; players find cursed curios while farming/fishing/exploring, Alastair displays them with wry description cards.

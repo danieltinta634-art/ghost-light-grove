@@ -52,7 +52,7 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
 ## Core Loops
 
 1. **Farm** — crops keyed to tides and moon phases; signature crops need both (e.g. a flower that only sprouts if planted on a New Moon during a specific tide).
-2. **Ranch** — the livestock are monsters (via Myra). Barn/coop gameplay with supernatural produce.
+2. **Ranch** — the livestock are spooky creatures — vampire bats, spiders, other eerie fauna (Myra's sanctuary). Barn/coop gameplay with supernatural produce.
 3. **Explore/Fight** — TWO distinct combat zones (the west Woods near town stay SAFE):
    - **The Deep Woods** (entrance far NW edge): combat vs. **mindless reanimated bodies** — wild risen zombies and skeletons (the failed reanimations, no one home). Physical enemies, melee/weapon combat. Purpose: resource gathering, crafting materials, exploration depth. *(How "defeating" reads tonally: they're already-dead husks, not people — clearing them is pest control, not killing. Keep them clearly inhuman: shamblers, rattling bone-piles.)*
    - **The caves beneath the manor** (entrance behind the waterfall, cliff's east face): the REAPER loop vs. **angry spirits** — souls, subdued into the scythe, passed on at the well for raw ghost light. (See Reaper loop below.)
@@ -83,10 +83,10 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
   - **Briar** (M, werewolf) — grump with a soft center
   - **Dorian** (M, siren) — dreamer/artist; lighthouse keeper & musician
   - **Rowan** (M, male dryad/nature-spirit) — elegant/nurturing
-  - **Myra** (F, monster hunter) — confident adventurer
+  - **Myra** (F, monster rehabilitator) — confident adventurer; Van Helsing's tools, sanctuary heart
   - **Alice** (F, vampire) — composed intellectual
   - **Selene** (F, kitsune) — playful trickster
-  - **Clementine** (F, Hazel's apprentice witch) — sunshine/warmth
+  - **Sabrina** (F, Hazel's apprentice witch) — sunshine/warmth
   - Full archetype spread: shy, gruff, dreamy, elegant, bold, bookish, playful, sunshine — all eight distinct, none overlapping. Each wired to a different location/system. **All 8 named.**
 - **Found-family track** for non-candidates runs parallel — heart events, manor spare rooms, chosen-family milestones.
 - Gifting system will need **likes/dislikes per character (OPEN, whole cast)**.
@@ -96,25 +96,25 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
 | Character | Species | Role | Notes |
 |---|---|---|---|
 | Wilcox | Ghost | Butler, tutorial guide | Proper, snobby, loyal; admits the player on seeing the crest pendant |
-| Hazel | Witch (swamp witch) | Healer, cook, potions | Witch's shack deep in the swamp (southern half of the western Woods) |
-| Benny | Reanimated skeleton | Bartender, comedian | Bar + family home in town; father of the twins; no memories, muscle memory only |
+| Hazel | Witch (swamp witch) | Apothecary — healer, potions, cook | **Gentle, elderly, caring** — grandmotherly, not gruff (subverts the cliché). The town's pharmacist: brews **suppressant tonics** that manage Alice's blood cravings & Briar's affliction (management, not cure). Shack deep in the swamp (southern half of the western Woods). Mentor to Sabrina |
+| Benny | Reanimated skeleton | Bartender, comedian | Runs the bar — an **80s stand-up dive** (stage, mic, single spotlight, brick wall); practises his act on the stage, Dorian plays music there other nights. Family home in town; father of the twins; no memories, muscle memory only |
 | Ellie | Skeleton (child) | Bar assistant | Chaos twin |
 | Kellie | Skeleton (child) | Bar assistant | Responsible twin |
 | Alastair | Cursed human | Museum curator | Cursed-artifact museum (collection content); his curse is his personal story; **Skitter (his pet) lives with him** |
 | Marshal | Swamp monster | Sewer resident | Young adult; came via the river; lives under the bridge (sewer). **Commutes down to the swamp easily** — the connected waterways (sewer→river→swamp) are his native habitat; the swamp is his comfort zone (and Hazel's turf). **candidate** |
-| Myra | Monster hunter | Sanctuary manager, livestock vendor | Found Benny & Cliff, caught Alice and took her in; **candidate** |
-| Alice | Vampire (reformed) | Historian & library keeper | The town's historian and lore-voice — the library is the Grove's archive; bring her inscriptions/records and she researches them (mystery delivery runs through her). In recovery; lives with Myra; **candidate** |
-| Victor | Human | Scientist, inventor, the town's power supply | Harvests ghost light from the caves — it powers the town's lights and his lab; argues with himself; uplifted the mindless risen into Benny, Cliff & the twins (public knowledge) |
-| Sabrina | Human (child) | Victor's daughter | Little goth girl, Wednesday Addams energy |
+| Myra | Monster **rehabilitator** (reads as a hunter — the opposite) | Sanctuary keeper, livestock vendor | Traps wild risen in the Deep Woods and brings them to Victor to be uplifted (Cliff, Benny, twins); keeps the sanctuary's spooky livestock (vampire bats, spiders…); **candidate** |
+| Alice | Vampire (reformed) | Historian & library keeper | The town's historian and lore-voice — the library is the Grove's archive; bring her inscriptions/records and she researches them (mystery delivery runs through her). In recovery — she came to Myra for help and now lives at the sanctuary, tending the vampire bats; **Hazel's tonic manages her blood cravings**; quiet kinship with Briar (the other afflicted one); **candidate** |
+| Victor | Human | Scientist, inventor, the town's power supply | Harvests ghost light (unreaped-soul energy) from the caves to power the town and **suppress the risen**, banishing them to the Deep Woods; argues with himself; uplifted the rare salvageable risen into Benny, Cliff & the twins (public knowledge). **Protector, not culprit — and blind to the goddess in the caves beneath his well** (spoiler) |
+| Clementine | Human (child) | Victor's daughter | Little goth girl, Wednesday Addams energy |
 | Jack | Scarecrow | Cornfield keeper | Never seen moving; attends festivals anyway; a running gag, NOT a mystery — never explained |
-| Briar | Werewolf | Carpenter, building vendor | Shack near the Woods entrance; absent every Full Moon (felt, not seen); never laughs at Benny's jokes; **candidate** |
+| Briar | Werewolf | Carpenter, building vendor | Shack near the Woods entrance; relies on **Hazel's tonic** to manage the affliction — but the **Full Moon overrides it**, so he's absent every Full Moon (felt, not seen); quiet kinship with Alice (the other afflicted one); never laughs at Benny's jokes; **candidate** |
 | Cliff | Zombie | Grave digger | Graveyard at the cliff-stairs' base; hut by the graves; pet crow Doug; sleeps in a dug grave ("Here Lies Cliff"); flowers pinned to chest; no shoes; muscle memory only |
 | **Lionel** | Mummy | General store owner | An **English** archaeologist (1800s, Egyptology's golden age — the archaeologist who became the artifact), Shakespearean gravitas, grand weighty diction. **Big bushy grey eyebrows and a bushy grey moustache bursting out from under the mummy bandages.** |
 | **Tobias** | Headless Horseman | **Mayor & festival host** | The town's civic heart — **carries his own head around** (sets it on the podium for speeches, tucks it under his arm, occasionally misplaces it — running gag). Dignified, warm, ceremonial. Story-role: likely the FIRST the Grove drew, who has welcomed every resident since — the town's "you belong here" made into a person. Runs the festivals (one per tide). **Mayor's office on the town square, connected to a stable with his horse Maple** (still rides — a nod to the Headless Horseman origins). |
-| **Dorian** | Siren (male) | Lighthouse keeper & musician | **Marriage candidate** — the dreamer/artist (a siren whose nature IS song, so the musician role fits perfectly). Keeps the south/east-coast lighthouse; his music moves the whole town. Soulful, alluring-by-song, a touch melancholy. Name = "of the sea" + the Dorian musical mode. |
+| **Dorian** | Siren (male) | Lighthouse keeper & musician | **Marriage candidate** — the dreamer/artist (a siren whose nature IS song, so the musician role fits perfectly). Keeps the south/east-coast lighthouse; his music moves the whole town — and he plays the stage at **Benny's bar** some nights. Soulful, alluring-by-song, a touch melancholy. Name = "of the sea" + the Dorian musical mode. |
 | **Selene** | Kitsune (fox spirit, female) | TBD | **Marriage candidate** — the playful trickster. Mischievous, teasing, flirtatious; the light, charming foil to the pool's guarded types. Moon-named fox spirit (kitsune have moon/night associations) — on-theme for the moonlit world. |
 | **Rowan** | Dryad (male nature-spirit / Green Man) | TBD | **Marriage candidate** — the elegant/nurturing one. Calm, rooted, graceful; a male tree/forest spirit tied to the woods or cornfield. Slow-blooming, earthy romance. (Named for the rowan tree.) |
-| **Clementine** | Witch (young) | Hazel's apprentice | **Marriage candidate** — the SUNSHINE one. Bubbly, bright, eager; Hazel's apprentice (gives Hazel story beats). The warm, open relief among the guarded types. ("Clem.") |
+| **Sabrina** | Witch (young) | Hazel's apprentice & apothecary delivery-girl | **Marriage candidate** — the SUNSHINE one. Bubbly, bright, eager. Runs Hazel's **deliveries & errands** — carries the tonics to Alice & Briar (Hazel rarely leaves the swamp), so she's the apothecary's public face. Arc: **learning to become as good a witch as Hazel**. ("Sab.") |
 
 **Pets & companions (not townsfolk):** Skitter — a reanimated hand, silent and efficient, Alastair's pet/helper at the museum · Doug — Cliff's pet crow · Maple — Tobias's horse.
 
@@ -159,7 +159,7 @@ Target these dimensions/style for all art (matches Stardew Valley):
 
 ## Open Decisions (running list)
 
-**Story** (details in spoiler doc): why grandfather left · what grandmother is now / her present-day identity · who's at risk if day returns (formal list — esp. Wilcox, Alice) · the town's collective stance on restoring the day · Victor & Sabrina's arrival wound · were Benny & the twins family in life (possibly never answered — by design).
+**Story** (details in spoiler doc): why grandfather left · whether grandmother appears in town in a mortal seeming before the shrine reveal · the replacement-reaper antagonist (the order that assigns reapers) · Victor & Clementine's arrival wound · were Benny & the twins family in life (possibly never answered — by design). *(Note: "restore the day" dilemma is superseded — the ending keeps the eternal night; see Core Truth.)*
 
 **World/Systems:** tide names & flavors (proposed, unapproved) · scythe upgrade source · cave floor structure · general store owner · festival host · likes/dislikes pass · remaining 2 marriage candidates · arrival-story one-liners per resident · whether ghost light doubles as reaper-rank XP (see Economy).
 
