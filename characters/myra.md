@@ -1,6 +1,6 @@
 ---
 name: Myra
-species: "❓ unconfirmed — assumed Human (monster rehabilitator); no source doc actually states her species, only her role"
+species: Human (monster rehabilitator)
 role: Sanctuary keeper & livestock vendor
 home: The sanctuary, hugging the manor cliff's west side at the forest's edge
 status: ⭐ marriage candidate

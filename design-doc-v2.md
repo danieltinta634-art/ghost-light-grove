@@ -102,7 +102,7 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
 | Kellie | Skeleton (child) | Bar assistant | Responsible twin |
 | Alastair | Cursed human | Museum curator | Cursed-artifact museum (collection content); his curse is his personal story; **Skitter (his pet) lives with him** |
 | Marshal | Swamp monster | Sewer resident | Young adult; came via the river; lives under the bridge (sewer). **Commutes down to the swamp easily** — the connected waterways (sewer→river→swamp) are his native habitat; the swamp is his comfort zone (and Hazel's turf). **candidate** |
-| Myra | Monster **rehabilitator** (reads as a hunter — the opposite) | Sanctuary keeper, livestock vendor | Traps wild risen in the Deep Woods and brings them to Victor to be uplifted (Cliff, Benny, twins); keeps the sanctuary's spooky livestock (vampire bats, spiders…); **candidate** |
+| Myra | Human (monster **rehabilitator** — reads as a hunter, the opposite) | Sanctuary keeper, livestock vendor | Traps wild risen in the Deep Woods and brings them to Victor to be uplifted (Cliff, Benny, twins); keeps the sanctuary's spooky livestock (vampire bats, spiders…); **candidate** |
 | Alice | Vampire (reformed) | Historian & library keeper | The town's historian and lore-voice — the library is the Grove's archive; bring her inscriptions/records and she researches them (mystery delivery runs through her). In recovery — she came to Myra for help and now lives at the sanctuary, tending the vampire bats; **Hazel's tonic manages her blood cravings**; quiet kinship with Briar (the other afflicted one); **candidate** |
 | Victor | Human | Scientist, inventor, the town's power supply | Harvests ghost light (unreaped-soul energy) from the caves to power the town and **suppress the risen**, banishing them to the Deep Woods; argues with himself; uplifted the rare salvageable risen into Benny, Cliff & the twins (public knowledge). **Protector, not culprit — and blind to the goddess in the caves beneath his well** (spoiler) |
 | Clementine | Human (child) | Victor's daughter | Little goth girl, Wednesday Addams energy |
@@ -163,9 +163,9 @@ Target these dimensions/style for all art (matches Stardew Valley):
 
 **World/Systems:** tide names & flavors (proposed, unapproved) · scythe upgrade source · cave floor structure · general store owner · festival host · likes/dislikes pass · remaining 2 marriage candidates · arrival-story one-liners per resident · whether ghost light doubles as reaper-rank XP (see Economy).
 
-**Flagged by world-logic-checker (unresolved):**
-- **Dorian/Marshal geography contradiction** — see `characters/dorian.md` Relationships section. Dorian's proposed "lighthouse guided Marshal in" hook conflicts with Geography Canon: Marshal's route is the river's north branch, Dorian's lighthouse is on the south/east coast — different sides of the map.
-- **Myra's species** — never actually confirmed in any doc (design doc's species column lists her role, "Monster rehabilitator," not a species). `characters/myra.md` currently flags this as an unconfirmed assumption rather than asserting "Human."
+**Flagged by world-logic-checker:**
+- **Dorian/Marshal geography contradiction (unresolved)** — see `characters/dorian.md` Relationships section. Dorian's proposed "lighthouse guided Marshal in" hook conflicts with Geography Canon: Marshal's route is the river's north branch, Dorian's lighthouse is on the south/east coast — different sides of the map.
+- ~~Myra's species~~ **RESOLVED:** Myra is human. Confirmed in `characters/myra.md` and the Cast table above.
 - **Light-system clarity (minor):** the moon (cosmic, sky-wide) and ghost light (spirit-energy resource for lamps/gear) are both described as "what light is here" in different sections; not contradictory once the Core Truth is fully assembled, but could use one explicit clarifying line in World Rules.
 - **Tobias/Victor timing (minor, unaddressed implication):** if Tobias is "likely the first the Grove drew" (predating Victor), the town existed for some stretch without Victor's lamp infrastructure. Unexplored, not contradictory.
 
