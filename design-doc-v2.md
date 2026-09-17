@@ -118,7 +118,7 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
 
 **Pets & companions (not townsfolk):** Skitter — a reanimated hand, silent and efficient, Alastair's pet/helper at the museum · Doug — Cliff's pet crow · Maple — Tobias's horse.
 
-**Open town roles:** — all filled (general store = Lionel · lighthouse = Saska · mayor/festival host = the Headless Horseman).
+**Open town roles:** — all filled (general store = Lionel · lighthouse = Dorian, née **Saska** (Saska was Dorian's original design — name retired from the lighthouse-keeper role but kept in reserve for a possible future character) · mayor/festival host = the Headless Horseman).
 
 ## Geography (see `tiled/ghost-light-grove.tmx` + `map-draft-4.html`)
 
