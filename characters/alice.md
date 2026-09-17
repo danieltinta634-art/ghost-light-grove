@@ -6,7 +6,7 @@ home: Myra's sanctuary (tends the vampire bats); works at the town library
 status: ⭐ marriage candidate
 candidate: true
 pet: none
-look: "❓ open — no visual details established beyond reformed vampire"
+look: "❓ open — no visual details established beyond reformed vampire; ✅ one confirmed detail: red hair (came up while designing Myra's look, to keep the two visually distinct)"
 gifting:
   loved: []
   liked: []

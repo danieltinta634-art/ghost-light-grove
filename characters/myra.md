@@ -6,7 +6,7 @@ home: The sanctuary, hugging the manor cliff's west side at the forest's edge
 status: ⭐ marriage candidate
 candidate: true
 pet: none (keeper to the whole sanctuary, not one companion)
-look: "🔶 proposed — reads as a hunter at a glance: Van Helsing-coded gear, old scars, easy confidence. Softens the moment she's actually with an animal or a person."
+look: "✅ confirmed — Van Helsing type; green eyes, freckles, scars from dealing with beasts; dark brown hair in a long, practical braid; tomboy vibes; signature gear is a coiled net/lasso; weathered leather & earth-tone palette"
 gifting:
   loved: []
   liked: []
@@ -58,9 +58,9 @@ sanctuary now, tending the vampire bats, in recovery by her own choice.
   is open (✅ they don't remember it themselves — no living/pre-uplift
   memory survives the process).
 
-> **Open:** appearance details beyond "hunter-coded" · gifting · daily
-> schedule (sanctuary rounds vs. Deep Woods trapping trips) · her romance
-> arc specifics (the "bold adventurer" archetype needs a hook the way
-> Dorian's siren-allure subversion does) · whether she and Alice's kinship
-> is framed as found-family or something the romance track can touch if
-> she's not the player's choice.
+> **Open:** gifting · daily schedule (sanctuary rounds vs. Deep Woods
+> trapping trips) · her romance arc specifics (the "bold adventurer"
+> archetype needs a hook the way Dorian's siren-allure subversion does —
+> a few directions were floated and didn't land yet) · whether she and
+> Alice's kinship is framed as found-family or something the romance track
+> can touch if she's not the player's choice.
