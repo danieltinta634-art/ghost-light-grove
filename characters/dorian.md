@@ -49,7 +49,14 @@ you take the "adored by all, sure of none" angle; otherwise his arc is open.)
 - **Benny** — plays his bar; the warm comedian and the melancholy musician, an
   easy friendship. (✅ the bar stage is shared canon.)
 - **Marshal** 🔶 — fellow water-traveller; if Dorian's light guided him in, there's
-  history there.
+  history there. ⚠️ **Flagged contradiction (world-logic-checker, unresolved):**
+  Geography Canon has Marshal arriving via the river's NORTH branch (exits off
+  the map's north edge), while Dorian's lighthouse sits on the SOUTH/EAST
+  coastal beach where the river's OTHER branch meets the sea — two different
+  routes on opposite sides of the map. As written, the lighthouse couldn't have
+  guided him in. Needs a decision: drop the hook, move Marshal's arrival to the
+  south/east sea approach, or keep them as fellow water-folk with no causal
+  light/song link.
 - **Selene** 🔶 — the kitsune trickster as foil: she teases the brooding artist,
   and (being a trick-spirit herself) she might be immune to his song — making her
   one of the few who treats him as just a guy. Could be friction or fun.

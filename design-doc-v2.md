@@ -163,4 +163,10 @@ Target these dimensions/style for all art (matches Stardew Valley):
 
 **World/Systems:** tide names & flavors (proposed, unapproved) · scythe upgrade source · cave floor structure · general store owner · festival host · likes/dislikes pass · remaining 2 marriage candidates · arrival-story one-liners per resident · whether ghost light doubles as reaper-rank XP (see Economy).
 
+**Flagged by world-logic-checker (unresolved):**
+- **Dorian/Marshal geography contradiction** — see `characters/dorian.md` Relationships section. Dorian's proposed "lighthouse guided Marshal in" hook conflicts with Geography Canon: Marshal's route is the river's north branch, Dorian's lighthouse is on the south/east coast — different sides of the map.
+- **Myra's species** — never actually confirmed in any doc (design doc's species column lists her role, "Monster rehabilitator," not a species). `characters/myra.md` currently flags this as an unconfirmed assumption rather than asserting "Human."
+- **Light-system clarity (minor):** the moon (cosmic, sky-wide) and ghost light (spirit-energy resource for lamps/gear) are both described as "what light is here" in different sections; not contradictory once the Core Truth is fully assembled, but could use one explicit clarifying line in World Rules.
+- **Tobias/Victor timing (minor, unaddressed implication):** if Tobias is "likely the first the Grove drew" (predating Victor), the town existed for some stretch without Victor's lamp infrastructure. Unexplored, not contradictory.
+
 **Deliberately unanswered (do not fill):** Jack · the player's parents (they exist only to create separation from the grandfather) · possibly the twins' in-life question.
