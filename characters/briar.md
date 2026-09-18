@@ -6,7 +6,7 @@ home: Shack near the Woods entrance
 status: ⭐ marriage candidate
 candidate: true
 pet: none
-look: "❓ open — no visual details established beyond werewolf"
+look: "✅ confirmed — mostly human day-to-day; wild thick hair, mane-like gruff beard (dark brown/black), slightly sharpened teeth, wolf-like amber eyes; big and burly build; flannel woodsman outfit; carries an axe (carpentry tool, never a weapon)"
 gifting:
   loved: []
   liked: []
@@ -36,7 +36,7 @@ gentlest feud, entirely from Benny's side of the bar.
 - **Benny** — the world's least receptive audience for Benny's act, night
   after night, without ever meaning any harm by it.
 
-> **Open:** appearance, personality beyond "grump with a soft center,"
-> voice & sample dialogue, backstory (how long he's lived with the
-> affliction, how he found the Grove), romance arc, gifting, what he
-> actually does or feels during the Full Moon's absence.
+> **Open:** personality beyond "grump with a soft center," voice & sample
+> dialogue, backstory (how long he's lived with the affliction, how he
+> found the Grove), romance arc, gifting, what he actually does or feels
+> during the Full Moon's absence.
