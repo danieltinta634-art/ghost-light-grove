@@ -29,6 +29,19 @@ tonics. ✅ **The running bit:** he drinks at Benny's bar most nights and has
 never once laughed at one of his jokes — the town's longest-running,
 gentlest feud, entirely from Benny's side of the bar.
 
+✅ **The Full Moon (canon, mechanic):** when the tonic fails, Briar fully
+transforms — a real, feral wolf-form — and deliberately goes off into the
+**Deep Woods** to isolate himself so no one in town gets hurt. Responsible,
+not dangerous, by his own choice. He only keeps fragments and impressions
+of the week afterward, not a clear memory and not a full blackout. **If the
+player enters the Deep Woods during a Full Moon, feral-Briar attacks —**
+but the encounter is **unwinnable by design**: the player flees/evades
+rather than fights. He's never meant to be damage-tradeable like the wild
+risen; unlike them, he's a person, and the game deliberately doesn't let
+the player hurt him. This gives Full Moon nights real teeth in the Deep
+Woods specifically, without compromising the "no moral weight" rule that
+governs risen combat.
+
 ## Relationships
 - **Hazel** — the tonic that manages his affliction comes from her; a
   standing, essential dependency, same as Alice's.
@@ -38,5 +51,7 @@ gentlest feud, entirely from Benny's side of the bar.
 
 > **Open:** personality beyond "grump with a soft center," voice & sample
 > dialogue, backstory (how long he's lived with the affliction, how he
-> found the Grove), romance arc, gifting, what he actually does or feels
-> during the Full Moon's absence.
+> found the Grove), romance arc, gifting · whether the town already knows
+> the Deep Woods danger on Full Moons is *him*, or whether that's a
+> mystery/reveal the player pieces together themselves · exact
+> flee/evade mechanics for the encounter.
