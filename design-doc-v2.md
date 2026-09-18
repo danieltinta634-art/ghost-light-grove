@@ -151,6 +151,10 @@ Target these dimensions/style for all art (matches Stardew Valley):
 - **Overworld character sprites: 16×32 px** (one tile wide, two tall) — the walking sprites.
 - **Dialogue portraits: 64×64 px** — the expressive face shown in conversation.
 - **Objects / crops / items: 16×16** each (a crop's growth stages = a row of 16×16 frames).
+- **Walk-cycle animation: 4 directions × 4 frames each** (up/down/left/right), matching Stardew's own convention.
+- **Sanctuary creatures (vampire bats, spiders, other livestock): same 16×32 sprite convention as townsfolk** — keeps the pipeline uniform rather than one-off sizing per creature.
+- **Dialogue portrait expression variants: 3 per character for v1** — neutral, happy, sad/concerned. Not the full Stardew-scale set; more can be added later per character as needed.
+- **Equipped tools/weapons render baked into the character sheet** — each tool gets its own full set of directional-action frames on the sprite sheet, rather than a separate overlay layer or a generic shared swing animation.
 - **Style = "HD pixel art," NOT retro.** Stardew uses a **generous palette** with soft shading/gradients — do NOT over-restrict colors. For AI prompts use "clean pixel art, rich palette, soft shading" rather than "8-bit / 4-color." Warm, cozy, readable, slightly painterly-within-pixels.
 - **Ghost Light Grove twist on the style:** moonlit cozy-gothic — cool blue-grey night light with warm lantern highlights; whimsical, gently melancholic, never frightening (Over the Garden Wall / cozy Halloween).
 - **AI prompt suffixes:** sprite → "16×32 top-down RPG sprite, transparent background, hard pixels"; portrait → "64×64 pixel portrait"; tile/object → "16×16, transparent bg, hard pixels."
