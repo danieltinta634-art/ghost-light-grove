@@ -11,7 +11,7 @@ gifting:
   loved: []
   liked: []
   disliked: []
-links: []
+links: [Player]
 art_done: false
 ---
 
