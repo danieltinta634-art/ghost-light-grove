@@ -34,6 +34,32 @@ actually affordable.
 64×64, 4 directions × 4 walk-cycle frames. Each layer sheet matches these
 dimensions/frame counts exactly so they composite in alignment.
 
+**PixelLab prompt — blank base body layer (primary — no technical tags):**
+
+> Body Type A:
+> Blank base body for a customizable RPG character, top-down/high-angle
+> view. Neutral skin tone (to be recolored per skin-tone option), no hair,
+> no clothing details — plain, minimal silhouette only, meant as an
+> underlying layer for swappable hair and outfit art on top. Neutral
+> standing pose. Clean pixel art, rich palette, soft shading. Not
+> stylized toward any particular personality — this is a blank canvas
+> layer, not a finished character.
+>
+> Body Type B:
+> Same as above — blank base body, neutral skin tone, no hair or
+> clothing, neutral standing pose — but the second of two base body types
+> offered at character creation. Matches Body Type A in scale,
+> proportions, and rendering style exactly; only the underlying
+> silhouette differs.
+
+Generate each body type as a base, then 4-directional rotations + walk +
+idle — 16 frames total per body type. Transparent background, hard pixels,
+displayed at 4× zoom. Use the project's NPC style-anchor character as the
+style reference so the player reads as "from" the same world as the
+townsfolk. Hair, outfit, and tool layers must be authored to align with
+this exact base — same anchor points per frame — since they composite on
+top at runtime.
+
 **Open:** exact number of skin tones / hairstyles / starting outfits ·
 whether portraits also composite from layers or get authored as fixed
 combinations (portraits change less often than the overworld sprite, so
