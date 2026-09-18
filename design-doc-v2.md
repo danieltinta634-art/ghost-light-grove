@@ -37,7 +37,7 @@ A cozy supernatural farming and life sim. The player inherits a haunted manor in
 - **Glimmers** — the everyday currency of the town: crops, shops, services.
 - **Ghost light** — a **refinable material resource** (like ore / Stardew's iridium), NOT experience/XP (the old moonstone idea is CUT). Flow: reap spirits → pass them on at the well → receive **raw ghost light** → **refine it** (at a refining station — location OPEN) → **refined ghost light** is the building/crafting/upgrade resource. Stockpiled physically, like any farm resource.
 - **Refined ghost light upgrades ALL gear** (designer canon): the **scythe** (reaper capacity/abilities), the **melee weapon** (Deep Woods combat), and **farm tools** (hoe, watering can, axe, etc.). This is the single material that makes everything you carry better — closes the earlier "scythe upgrade source" and "weapon upgrade path" questions.
-- **Ghost light is also spent on:** manor restoration power, Victor's tech upgrades, and town lamps/infrastructure.
+- **Ghost light is also spent on:** Victor's tech upgrades and town lamps/infrastructure. (Manor restoration runs on item bundles, not ghost light — see Core Loops.)
 - One open ripple from cutting moonstones: Full Moons lost their economic specialness — **(proposed)** spirits surge on Full Moon nights so reaping (ghost light income) spikes, keeping the weekly climax materially rewarding.
 - Vendor map: **Lionel's general store** (seeds/staples — see below) · Briar = building/construction · Myra = livestock & ranch supplies · Hazel = food/potions · Victor = tech/equipment upgrades · Alastair's museum = collection content, not commerce.
 
@@ -66,14 +66,14 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
    - **Return to the well** and transfer the carried spirits; the well **helps them pass on**.
    - Passing spirits on **generates raw ghost light for the player** — the reaper's wage, a refinable material (see Economy: raw → refine → refined resource).
    - **Scythe capacity:** limited, upgradeable. On collapse (stamina gone / overwhelmed), carried spirits ESCAPE back into the caves — work undone, not destroyed; player wakes at the manor.
-   - **Ghost light is spent on (designer canon):** ① upgrading ALL gear — scythe, melee weapon, farm tools; ② powering manor restoration; ③ Victor's tech upgrades (the player's wage feeds his machine — deliberate moral friction); ④ lamps & town infrastructure (the Grove visibly brightens as the reaper works).
+   - **Ghost light is spent on (designer canon):** ① upgrading ALL gear — scythe, melee weapon, farm tools; ② Victor's tech upgrades (the player's wage feeds his machine — deliberate moral friction); ③ lamps & town infrastructure (the Grove visibly brightens as the reaper works). (Manor restoration is funded separately — see Restore, below.)
    - Open design questions: refining-station location · cave floor/depth structure & checkpoints · lore note: the well as the Grove's sanctioned door for souls ready to move on (interacts with the endgame — see spoiler doc).
 5. **Befriend/Romance** — full marriage system + parallel found-family bonds.
+6. **Restore** — manor restoration, Community Center-style (designer canon, 2026-09-18): each ruined room wants a **themed item bundle** — specific crops, forage, fish, or crafted goods turned in together, not a resource-currency cost. Ghost light is explicitly NOT spent here; it stays reserved for gear upgrades and town infrastructure (see Economy). Completing a room's bundle unlocks a facility AND a piece of story (Wilcox remembers more as the manor heals). The restoration path culminates in **the locked room** — the act-one climax and the unlock for reaper gameplay. Open: room list & count, bundle contents per room, room order/gating, the turn-in interface, and the specific facility each room unlocks.
 
 ## Progression Spine
 
-- **Manor restoration bundles** (Community Center analog): each ruined room wants a themed item collection; restoring it unlocks a facility AND a piece of the story (Wilcox remembers more as his home heals).
-- The restoration path leads to **the locked room** — the act-one climax and the unlock for reaper gameplay.
+- Manor restoration (see Core Loops: Restore) is the game's spine — each room's bundle unlocks a facility AND a piece of story, culminating in the locked room that unlocks reaper gameplay.
 - Long-term story beats are paced to **Ghost-tides** (one reveal layer per year-cycle).
 - Endgame: see spoiler doc. The whole map points down.
 
