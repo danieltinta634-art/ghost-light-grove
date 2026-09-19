@@ -19,7 +19,7 @@ A cozy supernatural farming and life sim. The player inherits a haunted manor in
 ## World Rules
 
 - **Perpetual night, local.** The Grove is a veiled region of the mainland; inside, the sun never rises. Outside, the ordinary daylit world carries on, unaware.
-- **The Grove draws those who need it.** Outcast supernatural folk feel a pull toward it. Arrival stories = need stories.
+- **The Grove draws those who need it.** Outcast supernatural folk feel a pull toward it. Arrival stories = need stories. *(Partial mechanism: Dorian's lighthouse amplifies his siren song across the whole map, and he uses it intentionally to call others in — an open secret the town is grateful for. Doesn't explain every arrival, but explains some.)*
 - **The moon is the clock.** It arcs over the manor each night; players read time from its position against the manor silhouette. Phases change nightly; a **Full Moon closes every week**.
 - **Ghost light** is spirit energy — what "light" fundamentally is here. (Full lore: spoiler doc.)
 
@@ -86,7 +86,7 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
   - **Rowan** (M, male dryad/nature-spirit) — elegant/nurturing
   - **Myra** (F, monster rehabilitator) — confident adventurer; Van Helsing's tools, sanctuary heart
   - **Alice** (F, vampire) — composed intellectual
-  - **Selene** (F, kitsune) — playful trickster
+  - **Minori** (F, kitsune) — playful trickster
   - **Sabrina** (F, Hazel's apprentice witch) — sunshine/warmth
   - Full archetype spread: shy, gruff, dreamy, elegant, bold, bookish, playful, sunshine — all eight distinct, none overlapping. Each wired to a different location/system. **All 8 named.**
 - **Found-family track** for non-candidates runs parallel — heart events, manor spare rooms, chosen-family milestones.
@@ -113,7 +113,7 @@ Kept deliberately distinct from Alastair's museum (cursed artifacts, donated not
 | **Lionel** | Mummy | General store owner | An **English** archaeologist (1800s, Egyptology's golden age — the archaeologist who became the artifact), Shakespearean gravitas, grand weighty diction. **Big bushy grey eyebrows and a bushy grey moustache bursting out from under the mummy bandages.** |
 | **Tobias** | Headless Horseman | **Mayor & festival host** | The town's civic heart — **carries his own head around** (sets it on the podium for speeches, tucks it under his arm, occasionally misplaces it — running gag). Dignified, warm, ceremonial. Story-role: likely the FIRST the Grove drew, who has welcomed every resident since — the town's "you belong here" made into a person. Runs the festivals (one per tide). **Mayor's office on the town square, connected to a stable with his horse Maple** (still rides — a nod to the Headless Horseman origins). |
 | **Dorian** | Siren (male) | Lighthouse keeper & musician | **Marriage candidate** — the dreamer/artist (a siren whose nature IS song, so the musician role fits perfectly). Keeps the south/east-coast lighthouse; his music moves the whole town — and he plays the stage at **Benny's bar** some nights. Soulful, alluring-by-song, a touch melancholy. Name = "of the sea" + the Dorian musical mode. |
-| **Selene** | Kitsune (fox spirit, female) | TBD | **Marriage candidate** — the playful trickster. Mischievous, teasing, flirtatious; the light, charming foil to the pool's guarded types. Moon-named fox spirit (kitsune have moon/night associations) — on-theme for the moonlit world. |
+| **Minori** | Kitsune (fox spirit, female) | Shrine keeper — harvest luck | **Marriage candidate** — the playful trickster. Mischievous, teasing, flirtatious; the light, charming foil to the pool's guarded types. Name means "harvest"/"bearing of fruit"; leans into authentic Inari-shrine iconography (kitsune are traditionally Inari's messengers) rather than a moon motif — the cast's one deliberately non-western mythological figure. |
 | **Rowan** | Dryad (male nature-spirit / Green Man) | TBD | **Marriage candidate** — the elegant/nurturing one. Calm, rooted, graceful; a male tree/forest spirit tied to the woods or cornfield. Slow-blooming, earthy romance. (Named for the rowan tree.) |
 | **Sabrina** | Witch (young) | Hazel's apprentice & apothecary delivery-girl | **Marriage candidate** — the SUNSHINE one. Bubbly, bright, eager. Runs Hazel's **deliveries & errands** — carries the tonics to Alice & Briar (Hazel rarely leaves the swamp), so she's the apothecary's public face. Arc: **learning to become as good a witch as Hazel**. ("Sab.") |
 
@@ -167,10 +167,10 @@ Target these dimensions/style for all art (matches Stardew Valley):
 
 **Story** (details in spoiler doc): why grandfather left · whether grandmother appears in town in a mortal seeming before the shrine reveal · the replacement-reaper antagonist (the order that assigns reapers) · Victor & Clementine's arrival wound · were Benny & the twins family in life (possibly never answered — by design). *(Note: "restore the day" dilemma is superseded — the ending keeps the eternal night; see Core Truth.)*
 
-**World/Systems:** tide names & flavors (proposed, unapproved) · scythe upgrade source · cave floor structure · general store owner · festival host · likes/dislikes pass · remaining 2 marriage candidates · arrival-story one-liners per resident · whether ghost light doubles as reaper-rank XP (see Economy).
+**World/Systems:** tide names & flavors (proposed, unapproved) · scythe upgrade source · cave floor structure · likes/dislikes pass · Rowan's role (last marriage candidate without one; Minori's is now defined but her shrine location is still open) · arrival-story one-liners per resident · whether ghost light doubles as reaper-rank XP (see Economy).
 
 **Flagged by world-logic-checker:**
-- **Dorian/Marshal geography contradiction (unresolved)** — see `characters/dorian.md` Relationships section. Dorian's proposed "lighthouse guided Marshal in" hook conflicts with Geography Canon: Marshal's route is the river's north branch, Dorian's lighthouse is on the south/east coast — different sides of the map.
+- ~~Dorian/Marshal geography contradiction~~ **RESOLVED (2026-09-19):** Dorian's lighthouse amplifies his siren *song*, not light — it carries across the whole map regardless of which side Marshal's river route enters from, so the geography no longer matters. See `characters/dorian.md`.
 - ~~Myra's species~~ **RESOLVED:** Myra is human. Confirmed in `characters/myra.md` and the Cast table above.
 - **Light-system clarity (minor):** the moon (cosmic, sky-wide) and ghost light (spirit-energy resource for lamps/gear) are both described as "what light is here" in different sections; not contradictory once the Core Truth is fully assembled, but could use one explicit clarifying line in World Rules.
 - **Tobias/Victor timing (minor, unaddressed implication):** if Tobias is "likely the first the Grove drew" (predating Victor), the town existed for some stretch without Victor's lamp infrastructure. Unexplored, not contradictory.

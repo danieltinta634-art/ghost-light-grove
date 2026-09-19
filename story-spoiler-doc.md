@@ -166,7 +166,7 @@ player's own hand, with the haven preserved as her parting gift.
 - ~~General store owner~~ **FILLED: Lionel (mummy).**
 - Moonstone/endgame vendor (not Alastair) — still open
 - ~~Festival host / town authority figure~~ **FILLED: Tobias (mayor).**
-- ~~Lighthouse keeper & young witch~~ **FILLED: Dorian & Sabrina.** Candidate pool now: Marshal, Briar, Myra, Alice, Dorian, Selene, Rowan, Sabrina.
+- ~~Lighthouse keeper & young witch~~ **FILLED: Dorian & Sabrina.** Candidate pool now: Marshal, Briar, Myra, Alice, Dorian, Minori, Rowan, Sabrina.
 - Likes/dislikes pass for the whole cast (gifting system)
 - Arrival story ("what did they need?") one-liner per resident
 - Tide names/flavors (Harvest, Mist, Frost, Ghost) are Claude's proposal — approve, rename, or redesign

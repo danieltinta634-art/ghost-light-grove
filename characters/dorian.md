@@ -11,7 +11,7 @@ gifting:
   loved: []
   liked: []
   disliked: []
-links: [Benny, Marshal, Selene]
+links: [Benny, Marshal, Minori]
 art_done: false
 ---
 
@@ -28,12 +28,17 @@ tell who's with him by *choice* vs. the allure — a loneliness underneath the g
 looks. Available if you want it for the romance arc; otherwise his interior is
 still to be defined.
 
-🔶 **The lighthouse (proposed):** a keeper of light in a world of permanent night.
-His beam — and his voice — reach out across the dark water and **guide the lost
-safely in.** The siren whose song leads travellers to *safety* instead of doom:
-the same subversion the whole Grove runs on. (Hook: this may be how **Marshal**
-found his way up the river system to the Grove — he followed the light, or the
-song.)
+✅ **The lighthouse (canon, decided 2026-09-19):** a keeper of light in a world
+of permanent night — but the lighthouse's true purpose is his own: it
+**amplifies his siren song**, carrying it across the whole map rather than
+just the coastline. He uses it **intentionally** to call out to other
+outcast supernaturals, the same way the Grove once called him — turning the
+World Rule ("the Grove draws those who need it") from a passive fact into
+something he actively works at, out of empathy for what he went through.
+This is an **open secret** in town: most residents know Dorian's song
+helped bring them (or others) here, and it's a quiet point of civic pride,
+not a mystery to uncover. The siren whose song leads the lost to *safety*
+instead of doom: the same subversion the whole Grove runs on.
 
 🔶 **Why the Grove drew him (proposed):** outside the veil, a siren is a hazard —
 feared, exiled, blamed for a song he can't fully switch off. The Grove is the one
@@ -48,21 +53,19 @@ you take the "adored by all, sure of none" angle; otherwise his arc is open.)
 ## Relationships
 - **Benny** — plays his bar; the warm comedian and the melancholy musician, an
   easy friendship. (✅ the bar stage is shared canon.)
-- **Marshal** 🔶 — fellow water-traveller; if Dorian's light guided him in, there's
-  history there. ⚠️ **Flagged contradiction (world-logic-checker, unresolved):**
-  Geography Canon has Marshal arriving via the river's NORTH branch (exits off
-  the map's north edge), while Dorian's lighthouse sits on the SOUTH/EAST
-  coastal beach where the river's OTHER branch meets the sea — two different
-  routes on opposite sides of the map. As written, the lighthouse couldn't have
-  guided him in. Needs a decision: drop the hook, move Marshal's arrival to the
-  south/east sea approach, or keep them as fellow water-folk with no causal
-  light/song link.
-- **Selene** 🔶 — the kitsune trickster as foil: she teases the brooding artist,
+- **Marshal** 🔶 — fellow water-traveller, and one of the ones Dorian's
+  amplified song called in. ✅ **RESOLVED (2026-09-19):** the earlier
+  flagged contradiction (Geography Canon has Marshal arriving via the
+  river's north branch, on the opposite side of the map from Dorian's
+  south/east coastal lighthouse) is moot now that the lighthouse amplifies
+  *song*, not light — it reaches across the whole map regardless of which
+  side Marshal's route enters from. History between them is open to
+  develop.
+- **Minori** 🔶 — the kitsune trickster as foil: she teases the brooding artist,
   and (being a trick-spirit herself) she might be immune to his song — making her
   one of the few who treats him as just a guy. Could be friction or fun.
 
 > **Open:** does his song do anything *mechanically* (festival buffs, mood) or
 > stay flavour? · daily schedule (lighthouse by day, bar some nights?) · gifting ·
 > his look · companion (seabird?) · confirm the "love me or the song" romance arc
-> as his spine · whether the lighthouse-guides-arrivals idea (and the Marshal
-> link) is canon.
+> as his spine.
