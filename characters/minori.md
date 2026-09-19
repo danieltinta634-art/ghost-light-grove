@@ -6,7 +6,7 @@ home: Her shrine, on the manor-to-town path (near Cliff's graveyard stairs)
 status: ⭐ marriage candidate
 candidate: true
 pet: none
-look: "❓ open — fox-eared/tailed kitsune; likely Inari-shrine visual language (vermillion accents, foxfire glow) rather than a moon motif"
+look: "✅ white/pale fox (byakko-style, celestial kitsune variant) with vermillion shrine-color accents; foxfire glow as her magical signature; dresses casual/practical, not ceremonial robes — undercuts the shrine's solemnity to match her personality"
 gifting:
   loved: []
   liked: []
@@ -50,22 +50,31 @@ not a once-a-year spotlight.
 
 ✅ **Arrival (canon, decided 2026-09-19):** she's one of the outcasts
 Dorian's amplified lighthouse song called to the Grove — giving her and
-Dorian shared history that predates their "foil" dynamic.
+Dorian shared history that predates their "foil" dynamic. Her specific
+need: outside the veil, she was **feared and hunted for her tricks** —
+harmless mischief read as a threat, same pattern as Dorian's own exile as
+a "hazardous" siren. Direct thematic parallel between the two of them.
 
-🔶 **Foil to Dorian (proposed):** she's floated as a foil to Dorian
-specifically — teasing the brooding artist, and, being a trick-spirit
-herself, potentially immune to his siren allure, which would make her one
-of the few people in town who treats him as just a guy. Could play as
-friction or genuine fun between them; not yet decided which.
+✅ **Personality/voice (canon, decided 2026-09-19):** sharp-witted, quick
+banter — always a step or two ahead in conversation, playful in a
+competitive rather than purely gentle way. Talking to her feels like a
+game she's already winning.
+
+✅ **Foil to Dorian (canon, decided 2026-09-19):** she teases the brooding
+artist, and — being a trick-spirit herself — is genuinely **immune to his
+siren allure**. One of the only people in town who's always seen him as
+just a guy, not the supernatural charisma. Combined with their shared
+arrival history, this gives their dynamic real weight underneath the
+banter, not just surface friction.
 
 ## Relationships
-- **Dorian** 🔶 — proposed foil dynamic; teases him, possibly immune to his
-  song. ✅ Canon: she's one of the outcasts his amplified song called in,
-  so there's real shared history before the teasing started. Whether she's
-  immune to the song itself is still not confirmed as canon.
+- **Dorian** — ✅ one of the outcasts his amplified song called in, shared
+  arrival history predating anything else between them; ✅ she's immune to
+  his siren allure and has always treated him as just a guy; teases him
+  accordingly. Whether this tips into romance-track friction or stays
+  platonic foil energy is still open.
 
-> **Open:** appearance beyond "kitsune + Inari iconography" · personality
-> beyond "playful trickster," voice · why specifically the Grove/Dorian's
-> song called her (the personal need behind the arrival, not just that it
-> happened) · romance arc · gifting · whether the Dorian-immunity idea is
-> adopted.
+> **Open:** exact tail count / finer visual details (flagged as pure
+> art-pass flavor, no story meaning attached) · romance arc (what it
+> actually takes for the player to reach her past the banter) · gifting
+> (deferred to a full-cast likes/dislikes pass, not handled per-character).

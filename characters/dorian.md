@@ -61,12 +61,14 @@ you take the "adored by all, sure of none" angle; otherwise his arc is open.)
   *song*, not light — it reaches across the whole map regardless of which
   side Marshal's route enters from. History between them is open to
   develop.
-- **Minori** — ✅ one of the outcasts his amplified song called to the Grove,
-  giving them real shared history predating anything else between them. 🔶
-  Proposed on top of that: she's floated as his foil — teasing the brooding
-  artist, and (being a trick-spirit herself) possibly immune to his song,
-  making her one of the few who treats him as just a guy. Could be friction
-  or fun; not yet confirmed as canon.
+- **Minori** — ✅ one of the outcasts his amplified song called to the Grove
+  (she was feared/hunted for her tricks outside the veil, the same pattern
+  as his own exile — direct thematic parallel), giving them real shared
+  history predating anything else between them. ✅ She's also immune to his
+  siren allure (a trick-spirit herself) and has always treated him as just
+  a guy — one of very few in town who does. She teases him accordingly;
+  whether it tips into romance-track friction or stays platonic foil energy
+  is still open.
 
 > **Open:** does his song do anything *mechanically* (festival buffs, mood) or
 > stay flavour? · daily schedule (lighthouse by day, bar some nights?) · gifting ·
