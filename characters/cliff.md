@@ -23,6 +23,13 @@ became one of Victor's first successful experiments in **ghost light therapy** �
 rehabilitated out of mindlessness and back into sentience. He kept none of his
 living memories. Only muscle memory came back with him.
 
+✅ **His own rehabilitation is a total blank too (canon, decided 2026-09-19):**
+Cliff has zero memory of being captured or brought back — not fragments, not
+even a hazy shape. He knows the story only because Myra and Victor told him.
+✅ Despite having no way to verify any of it himself, he holds **simple,
+complete trust** in both of them — warmly grateful, untroubled, not haunted
+by the gap. His peace is genuine, not a mask over something darker.
+
 For reasons no one can name, he finds peace tending the Grove's graveyard, where
 he both lives and works. Most days you'll find him on grave maintenance —
 straightening tombstones, brushing them clean, digging — humming to himself,
@@ -30,16 +37,30 @@ growing flowers behind his crypt, Doug the crow perched on his shoulder. What
 he'll never know is that the graves he keeps belong to his own kind: the wild
 risen who were never saved. He cares, tenderly, for the exact fate he escaped.
 
+✅ **This irony is deliberately never resolved (canon, decided 2026-09-19):**
+Cliff never learns the graves are his own kind, and the reaper mantle
+unlocking doesn't give him an arc or a request tied to it. The dramatic irony
+stays the player's to feel, not his to discover — same tonal choice as Jack's
+"never explained" running gag. He simply stays himself: gentle, content,
+tending.
+
+✅ **He visits Benny's bar sometimes (canon, decided 2026-09-19):** otherwise a
+homebody who lives at the graveyard, but he and Benny — both uplifted,
+both without living memories — have a natural kinship, and Cliff turns up
+at the bar now and then. A small recurring thread among the found-family of
+rehabilitated risen (Cliff, Benny, the twins).
+
 ## Cliff's Crypt
 A dilapidated crypt — old stone, packed dirt, mouldy timber. Rusty old tools
 hang on the wall; a broken wheelbarrow sits in the corner, perpetually "under
 maintenance"; an old workbench; a perch for Doug. His bed is a dug grave — his
 resting place — headed by a tombstone that reads **"Here lies ~~[original name,
-scratched out]~~ Cliff."**
+scratched out]~~ Cliff."** ✅ Pure visual gag (confirmed 2026-09-19) — no one
+knows his original name, it carries no story weight, and it's not meant to be
+a mystery to solve (unlike, say, Victor's possession).
 
-> **Open:** daily routine specifics · gifting (flowers feel obvious) ·
-> relationships with Victor (rehabilitated him) & Myra (captured him) · his arc
-> once the reaper mantle unlocks.
+> **Open:** gifting (deferred to a full-cast likes/dislikes pass; flowers feel
+> like an obvious loved item whenever that happens).
 >
 > **Lore (RESOLVED 2026-06-16):** the wild risen come from the **unreaped-soul
 > backlog**, NOT from Victor. Victor is a protector who suppresses them and

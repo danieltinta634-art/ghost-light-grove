@@ -35,6 +35,12 @@ mourn it; he just keeps the lights warm and the room laughing.
 most nights and has *never once* laughed at his jokes. Benny has made it his life's
 mission. It is the town's longest-running, gentlest feud.
 
+✅ **Kinship with Cliff (canon, decided 2026-09-19, from Cliff's side):** Cliff's
+a homebody who lives at the graveyard, but he turns up at the bar sometimes —
+the two of them share a natural kinship as fellow uplifts without living
+memories. A small recurring thread among the found-family of rehabilitated
+risen (Benny, Cliff, the twins).
+
 ## The Bar
 The social hub of the Grove, built like an 80s stand-up dive: a small stage at
 one end with a mic on a stand, a single hard spotlight, and an exposed brick wall
@@ -46,6 +52,5 @@ threads cross, and where you go to hear the town talk.
 > **Name — maybe pile:** The Funny Bone · The Tickled Rib · The Open Casket · The Kicked Bucket  *(undecided)*
 
 > **Open:** voice & sample patter · gifting · daily schedule · his dynamic with
-> Victor (his maker) and Cliff (fellow uplift — do the rehabilitated ones know
-> they're a kind of family?) · whether the twins-in-life question is ever touched
-> or left forever open (lean: left open, matching the uplift rule).
+> Victor (his maker) · whether the twins-in-life question is ever touched or
+> left forever open (lean: left open, matching the uplift rule).
