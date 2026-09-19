@@ -6,7 +6,7 @@ home: Dilapidated crypt in the Ghost Light Grove graveyard, base of the manor cl
 status: townsperson          # townsperson | candidate | family
 candidate: false
 pet: Doug (trained crow)
-look: Skinny green-skinned zombie, white hair, pale-yellow eyes, barefoot; tattered flower-tucked hat, flowers pinned to chest
+look: Skinny green-skinned zombie, white hair, pale-yellow eyes, barefoot; tattered flower-tucked hat, flowers pinned to chest, suspenders, a couple small charming decay details (a stitched patch, a slightly loose seam at a joint) — worn-in-toy charm, not horror
 gifting:
   loved: []                  # fill later
   liked: []
