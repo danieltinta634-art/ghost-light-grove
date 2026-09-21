@@ -56,7 +56,20 @@ from being wall-to-wall melancholy.
   inform whoever carved that sign that the rabbit did not, historically,
   have particularly good luck."* (forage, Woods)
 
+## Special Interactive Pieces
+Unlike the four donation categories above, these are fixtures Alastair
+already owns and displays — the player interacts with them directly in
+the museum rather than finding and donating them.
+
+- ✅ **The Talking Board (canon, decided 2026-09-21):** a spirit/talking
+  board on permanent display (deliberately not called "Ouija" — that's a
+  specific trademarked brand name; this is the generic public-domain
+  concept). The player can interact with it for **easter eggs** —
+  specific function/content still TBD, but it's meant as a rewarding
+  little secret-hunting mechanic rather than a core system.
+
 ## Open
+- The Talking Board's actual easter-egg content/trigger conditions
 - Full artifact list (~80-100 items, per the system above)
 - Exact décor rewards per donation milestone
 - Full-collection capstone reward (see `characters/alastair.md`)
