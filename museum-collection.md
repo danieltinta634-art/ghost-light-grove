@@ -52,6 +52,9 @@ from being wall-to-wall melancholy.
 - **Battered Hockey Mask** — *"Pulled from a lake no one will name.
   Wearing it makes you walk slightly slower than everyone around you.
   We've had to ask people to stop testing this indoors."* (fishing)
+- **"Lucky" Rabbit's Foot** — *"Advertised as good luck. We regret to
+  inform whoever carved that sign that the rabbit did not, historically,
+  have particularly good luck."* (forage, Woods)
 
 ## Open
 - Full artifact list (~80-100 items, per the system above)
