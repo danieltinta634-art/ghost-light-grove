@@ -47,7 +47,9 @@ Petty, silly, low-stakes magic — cursed in the most inconvenient possible
 way rather than anything dangerous. Comic relief tier, keeps the museum
 from being wall-to-wall melancholy.
 
-*(Items TBD.)*
+- **Battered Hockey Mask** — *"Pulled from a lake no one will name.
+  Wearing it makes you walk slightly slower than everyone around you.
+  We've had to ask people to stop testing this indoors."* (fishing)
 
 ## Open
 - Full artifact list (~80-100 items, per the system above)
