@@ -23,6 +23,17 @@ distinct from the collection content around him. The museum itself runs
 Stardew-style: donations, not commerce (contrast with Lionel's shop and
 Alice's library, which cover the town's other two knowledge/goods roles).
 
+✅ **The curse, and why the museum exists at all (canon, decided
+2026-09-21):** Alastair is cursed with an unnaturally long life that needs
+feeding — cursed artifacts and curiosities sustain it. This is **stated
+openly, right up front**, as the pitch for the whole donation mechanic
+itself: *you help him (bring him curiosities), he helps you (museum
+rewards)* — not a secret to investigate, just how he introduces the
+collection to the player. It's flavour exactly as already established;
+"not a mystery" meant no clue-hunting, not that it stays hidden forever.
+This also gives him a personal, ongoing stake in every donation, rather
+than the museum being pure completionist decor-hunting.
+
 ✅ **Skitter** — a reanimated hand, silent and efficient — lives with him
 and helps at the museum. The one detail that's landed so far about who he
 is: whatever he's cursed with, he's built a quiet, orderly life around it,
@@ -32,7 +43,9 @@ one glass case at a time.
 - **Skitter** — his pet/helper, a reanimated hand that assists around the
   museum. Silent, efficient, clearly trusted.
 
-> **Open:** essentially everything — the nature of his curse (personal
-> story, not a mystery, but still undefined), appearance, personality
-> beyond implied wry humor in the display cards, voice, gifting, daily
-> routine, relationships with the rest of the town.
+> **Open:** exact capstone reward for 100%-completing the museum
+> collection (regular décor rewards per donation are established — see
+> `museum-collection.md` — but the final one isn't decided) · appearance ·
+> personality beyond implied wry humor in the display cards and the
+> help-him-he-helps-you framing · voice · gifting · daily routine ·
+> relationships with the rest of the town.
