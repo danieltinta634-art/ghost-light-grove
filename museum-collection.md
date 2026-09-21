@@ -33,7 +33,9 @@ tone.
 Deliberate magic — things people *made* to do something, whether it
 worked as intended or not. Leans more overtly witchy/ceremonial.
 
-*(Items TBD.)*
+- **The Unsolved Puzzle Box** — *"Ornate, heavy, and — as far as we can
+  tell — unopenable. We have theories about what happens if someone
+  finally manages it. We have chosen not to test them."* (Deep Woods)
 
 ### 3. Cursed Relics & Heirlooms
 Old, personal, historically weighty — objects with a family or a name
