@@ -39,7 +39,8 @@ worked as intended or not. Leans more overtly witchy/ceremonial.
 Old, personal, historically weighty — objects with a family or a name
 attached, even if the name is lost. More tragic/dramatic register.
 
-*(Items TBD.)*
+- **The Monkey's Paw** — *"Yes, THAT one. Or one very much like it. We
+  do not test these things twice."* (caves)
 
 ### 4. Joke / Prank Curses
 Petty, silly, low-stakes magic — cursed in the most inconvenient possible
